@@ -6,7 +6,7 @@ export default defineNuxtConfig({
     '@nuxtjs/tailwindcss',
     '@pinia/nuxt',
     // '@nuxt.js/supabase',
-    '@vite-pwa/nuxt'
+    '@vite-pwa/nuxt',
   ],
   runtimeConfig: {
     public: {
